@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+data/
+models/
+app2.py
+files.zip
+overalll_fixed_v2.ipynb
+README.md
+utils2.py
+Rossmann_Sales_Forecasting_PPT.pdf
